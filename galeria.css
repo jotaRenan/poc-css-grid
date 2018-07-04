@@ -1,0 +1,27 @@
+html, body {
+    margin: 10px;
+}
+
+.container {
+    display: grid;
+}
+
+.container > div {
+
+}
+
+.container > div > img {
+
+}
+
+.horizontal {
+
+}
+
+.vertical {
+
+}
+
+.big {
+
+}
